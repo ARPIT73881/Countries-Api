@@ -17,7 +17,9 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This project is a responsive web app for exploring country data. Users can search, filter by region, view detailed country info, and navigate through border countries. The app adapts to different screen sizes, includes hover and focus states for interactions, and offers light/dark mode toggling. It is built with reusable, scalable code for easy maintenance and extension.
+This project is a responsive web app for exploring country data. Users can search, filter by region, view detailed country info, and navigate through border countries.
+
+The app adapts to different screen sizes, includes hover and focus states for interactions, and offers light/dark mode toggling. It is built with reusable, scalable code for easy maintenance and extension.
 
 ## <a name="techstack">⚙️ Tech Stack</a>
 
@@ -32,13 +34,21 @@ This website is built using the following technologies:
 ## <a name="features">🔋 Features</a>
 
 - See all countries from the API on the homepage
+
 - Search for a country using an input field
+
 - Filter countries by region
+
 - Click on a country to see more detailed information on a separate page
+
 - Click through to the border countries on the detail page
+
 - View the optimal layout for the interface depending on their device's screen size
+
 - See hover and focus states for all interactive elements on the page
+
 - Bonus: Toggle the color scheme between light and dark mode
+
 - and many more, including code architecture and reusability
 
 ## <a name="contribute"> 🚀 Contributing</a>
