@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://countries-api-arpitsharma.netlify.app/" target="_blank"><img src="https://i.ibb.co/SKCK3Yv/5.png" alt="Main-Cover" border="0"></a>
+   <a href="https://countries-api-arpitsharma.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/41a32476-623b-49fc-9c22-e62ceb5a9b34" alt="Main-Cover" border="0"></a>
   <br />
 
 # [REST Countries Api ](https://countries-api-arpitsharma.netlify.app/)
